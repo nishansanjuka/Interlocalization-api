@@ -1,0 +1,22 @@
+{
+    "landingPage": {
+      "title": "Bienvenue sur Mon Application",
+      "description": "Une application simple Next.js avec la localisation",
+      "registrationLink": "Aller à l'Inscription"
+    },
+    "registrationPage": {
+      "title": "Inscription de l'Utilisateur",
+      "username": "Nom d'utilisateur",
+      "email": "E-mail",
+      "gender": "Genre",
+      "male": "Homme",
+      "female": "Femme",
+      "other": "Autre",
+      "civilStatus": "État civil",
+      "single": "Célibataire",
+      "married": "Marié(e)",
+      "divorced": "Divorcé(e)",
+      "registerButton": "S'inscrire"
+    }
+  }
+  

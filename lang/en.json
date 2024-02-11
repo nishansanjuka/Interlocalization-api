@@ -1,0 +1,22 @@
+{
+    "landingPage": {
+      "title": "Welcome to My App",
+      "description": "A simple Next.js app with localization",
+      "registrationLink": "Go to Registration"
+    },
+    "registrationPage": {
+      "title": "User Registration",
+      "username": "Username",
+      "email": "Email",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other",
+      "civilStatus": "Civil Status",
+      "single": "Single",
+      "married": "Married",
+      "divorced": "Divorced",
+      "registerButton": "Register"
+    }
+  }
+  
